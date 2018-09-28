@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 2: August 27, 2018
+**Today's progress**: Visited a cybersecurity related meetup, discussed ransomware and cryptocurrencies.
+Not exactly coding but I'd consider it learning which is the goal for this challenge.
+Learned React between meetings.
+
+**Thoughts**: Unfortunately the workday was filled with meetings and after work had a meetup so not much time for actual coding.
+
 ### Day 1: August 26, 2018
 **Today's progress**: At work: Played with large and complex sql queries (And ORMs) to optimize load times. Looked at Coworkers React code, and compared it to other project structures, and learned about different react tips and tricks from youtube videos and developers I know from Discord channels.
 At home: After staring at the Julia programming language for a while I finally decided to try it out and wrote my first code in Julia.
