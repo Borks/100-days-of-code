@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 5: August 30, 2018
+**Today's progress**: Added a new field for orders to an eCommerce website to use a coupon code.
+
+### Day 4: August 29, 2018
+**Today's progress**: Continued learning react and changing the eCommerce platform to be more mobile responsive.
+
+**Thoughts**: Learning React while developing vue isnt the best idea probably, but gotta do it. Work is using react and sidegigs are using vue.
+
+### Day 3: August 28, 2018
+**Today's progress**: Begun changes to a eCommerce website I made a few months ago to make it more mobile responsive.
+
+**Thoughts:** Using Stylus+Pug in unison is a dream for webdevelopment.
+
 ### Day 2: August 27, 2018
 **Today's progress**: Visited a cybersecurity related meetup, discussed ransomware and cryptocurrencies.
 Not exactly coding but I'd consider it learning which is the goal for this challenge.
