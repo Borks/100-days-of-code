@@ -1,7 +1,10 @@
 # 100 Days Of Code - Log
 
 ### Day 5: August 30, 2018
-**Today's progress**: Added a new field for orders to an eCommerce website to use a coupon code.
+**Today's progress**: Added a new field for orders to an eCommerce website to use a coupon code. Configured Sentry for 2 projects error reporting.
+Continued improving the mobile responsiveness of an eCommerce website.
+
+**Thought** Sentry is cool.
 
 ### Day 4: August 29, 2018
 **Today's progress**: Continued learning react and changing the eCommerce platform to be more mobile responsive.
