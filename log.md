@@ -1,10 +1,46 @@
 # 100 Days Of Code - Log
 
+
+### Day 12: October 7, 2018
+**Today's progress**: Now fixed frontend bugs thanks to the Vue integration to Sentry. Code quality improvements to JS code to follow standards.
+
+**Thought**: Sentry still the best.
+
+### Day 11: October  6, 2018
+**Today's progress**: Fixed several backend bugs which were discovered thanks to the Sentry installation from a few days back. Mostly to do with error handling, incase missing variables. No showstoppers, simply edge cases.
+
+**Thoughts**: Sentry the best.
+
+### Day 10: October  5, 2018
+**Today's progress**: Converted a few API endpoints to a better standard. At both work and at my personal projects.
+
+**Thought**: Learned about JSON API standard from Pycon. I was aware of this structure before, but now I could connect a name to the standard. http://jsonapi.org/
+
+### Day 9: October  4, 2018
+**Today's progress**: Went to a Python conference called Pycon. This took the whole day.
+
+**Thought** Met some old and new faces. Cool in general.
+
+### Day 8: October  3, 2018
+**Today's progress**: Updated a script for autodetection of a datastructure from data to support another datastructure. Implemented better error handling.
+
+**Thought**: This was more of a bugfix then a new feature.
+
+### Day 7: October 2, 2018
+**Today's progress**: New version for the eCommerce platform. Added sentry for the Vue backend too. Learned about Sentry in general.
+
+**Thought** Sentry for Vue provides literal tracebacks for ui actions. Amazing.
+
+### Day 6: October 1, 2018
+**Today's progress**: Continued studying Julia, and further improved mobile responsiveness for the eCommenrce platform.
+
+**Thoughts** Id really like to use Julia in a real project. Currently just test-data and so forth.
+
 ### Day 5: August 30, 2018
 **Today's progress**: Added a new field for orders to an eCommerce website to use a coupon code. Configured Sentry for 2 projects error reporting.
 Continued improving the mobile responsiveness of an eCommerce website.
 
-**Thought** Sentry is cool.
+**Thoughts** Sentry is cool.
 
 ### Day 4: August 29, 2018
 **Today's progress**: Continued learning react and changing the eCommerce platform to be more mobile responsive.
