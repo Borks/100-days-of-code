@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 19: October 14, 2018
+**Today's progress**: Even though just recently I picked up Julia for data processing at work (A new language) I now got introduced to ReasonML. As a JS developer, it's concepts intrigued me a lot. So today I'm checking Reason out.
+TLDR Static type'ing, pattern matching, etc for JS, also compiles to assembly though. (Microcontrollers etc).
+Took the responsive menu design live.
+
+**Thoughts** At some point I really should focus more on one thing.
+
+### Day 18: October 13, 2018
+**Today's progress**:Took the responsive menu live to a staging environment for other devs to test, give feedback.
+Further improved responsiveness on a few pages. Continued Udemy course.
+
+### Day 17: October 12, 2018
+**Today's progress**: Discovered why a new script in a legacy system did not produce the expected output. Due to data and datatype differences from newer systems. Improved script. Wrote a workaround to a classification system which relied on a different data structure as was in the legacy system.
+
+### Day 16: October 11, 2018
+**Today's progress**: Kept improving the responsiveness of the menu and the webshop.
+
+**Thoughts** Really should have built in the responsiveness part on day 1. Adding it afterwards is a slight headache.
+Not too hard but annoying.
+
+### Day 15: October 10, 2018
+**Today's progress**: Built a responsive sidemenu for a shop. Begun testing it on devices.
+
+### Day 14: October 9, 2018
+**Today's progress**:Continued the Udemy course. Did more reading for the json api standard.
+
+### Day 13: October 8, 2018
+**Today's progress**: Started following a Udemy course again for advanced JavaScript. I started this a while back but due to time constraints left unfinished. Improved routing in a vue project and did some error handling for it's laravel backend.
 
 ### Day 12: October 7, 2018
 **Today's progress**: Now fixed frontend bugs thanks to the Vue integration to Sentry. Code quality improvements to JS code to follow standards.
